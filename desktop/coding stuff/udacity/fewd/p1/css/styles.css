@@ -1,0 +1,26 @@
+body {
+	color: #d9e5f2;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 24px;
+	background-color: #263b40;
+}
+
+h1, h3 {
+	font-weight: 100;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+.title-super {
+	font-size: 60px;
+}
+
+.modal-text {
+	color: #503a07;
+}
