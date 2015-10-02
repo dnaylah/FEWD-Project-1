@@ -6,12 +6,16 @@ body {
 	background-color: #263b40;
 }
 
-h1, h3 {
+h1 {
+	font-weight: 100;
+}
+
+h3 {
 	font-weight: 100;
 }
 
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
 .title-logo {
